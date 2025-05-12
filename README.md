@@ -36,5 +36,5 @@
 - `GameManager` може бути розділений на окремі хендлери для перемоги/поразки при зростанні складності (анімації, реклама, SDK)
 
 
-Выдео геймплею - https://www.youtube.com/watch?v=Skii0AYan4g
+Відео геймплею - https://www.youtube.com/watch?v=Skii0AYan4g
 
